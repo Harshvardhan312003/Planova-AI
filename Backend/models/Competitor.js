@@ -7,7 +7,7 @@ const PostSchema = new mongoose.Schema({
   publishedAt: { type: Date, required: true },
   format: { type: String, default: 'Video' },
 });
-
+ 
 const CompetitorSchema = new mongoose.Schema({
   user: {
     type: mongoose.Schema.ObjectId,
