@@ -6,7 +6,7 @@ const {
   getStrategies, 
   getStrategyById,
   updateCalendarItem,
-  generatePersona, // <-- IMPORT new controller
+  generatePersona, // <-- IMPORT new controller 
   generateIdeas, // <-- Import
   deleteStrategy,
     expandIdea
