@@ -41,5 +41,5 @@ app.use('/api/competitors', competitors);
 app.use('/api/auth', auth);
 
 app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
+  console.log(`Server is running on port ${PORT}`);//
 });
